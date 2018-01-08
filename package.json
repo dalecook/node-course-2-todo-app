@@ -8,9 +8,6 @@
     "test": "mocha server/**/*.test.js",
     "test-watch": "modemon --exec 'npm test'"
   },
-  "engines": {
-    "node": "9.2.0"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
